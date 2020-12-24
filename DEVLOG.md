@@ -1,3 +1,3 @@
 # Devlog
 
-![alt text](https://github.com/Terraform-CSharp/Terraform/0.jpg?raw=true)
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/0.gif?raw=true)
