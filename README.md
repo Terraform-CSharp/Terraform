@@ -12,8 +12,8 @@ Multiplayer Voxel Based 'Engine'
 - Net 2.0
 - DX11
 
-# Devlog
-- Link
+# Devlog with Gifs
+- https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
 
 # Developer
 - Lloyd Howarth
