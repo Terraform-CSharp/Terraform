@@ -24,3 +24,9 @@
 - Added Textures
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/4.gif?raw=true)
+
+- Added Ambient Occlusion
+- Added basic player
+- Added Fly mode
+
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/5.gif?raw=true)
