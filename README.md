@@ -1,7 +1,7 @@
 # Terraform
 Multiplayer Voxel Based 'Engine'
 
-![alt text](https://github.com/Terraform-CSharp/Terraform/blob/main/Terraform.gif?raw=true)
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/Terraform.gif?raw=true)
 
 # Download
 - Coming soon
