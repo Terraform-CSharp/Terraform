@@ -30,3 +30,10 @@
 - Added Fly mode
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/5.gif?raw=true)
+
+- Upgraded Project to Universal Render Pipeline
+- Removed Ambient Occlusion (Not Available)
+- Moving Grass
+- Added Water
+
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/6.gif?raw=true)
