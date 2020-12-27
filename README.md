@@ -7,16 +7,15 @@ Multiplayer Voxel Based 'Engine'
 - Coming soon
 
 # Developer Notes
-- Unity 2020 Project
-- Built In Pipeline
+- Unity Project
+- Universal Render Pipeline
 - Mono Game
-- Net 2.0
+- Net 4.x
 - DX11
 
-# Devlog
-- https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
-- Latest DevLog Update
+# Latest DevLog Update
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/6.gif?raw=true)
+Full Devlog: https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
 
 # Developer
 - Lloyd Howarth
