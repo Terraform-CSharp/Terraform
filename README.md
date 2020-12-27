@@ -15,6 +15,8 @@ Multiplayer Voxel Based 'Engine'
 
 # Devlog
 - https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
+- Latest DevLog Update
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/6.gif?raw=true)
 
 # Developer
 - Lloyd Howarth
