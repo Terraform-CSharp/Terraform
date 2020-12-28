@@ -40,7 +40,7 @@
 - Added Remove Blocks
 - Added Chunk Updating
 - Added Chunk Tick System
-- Added start to farming
-- Added block states
+- Added Started Farming
+- Added Block States
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/7.gif?raw=true)
