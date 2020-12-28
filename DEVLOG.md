@@ -5,18 +5,19 @@
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/0.gif?raw=true)
 
-- Added 16 x 16 chunks
+- Added 16 x 16 meshes
 - Added 50 Chunk loading radius
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/1.gif?raw=true)
 
-- Added Perlin Noise
 - Added 16 x 16 x 16 chunks
+- Added Perlin Noise Mesh Generation
+- Added Culling faces
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/2.gif?raw=true)
 
 - Added Infinite Terrain
-- Added Perlin Noise world
+- Added Building Chunks Around Player
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/3.gif?raw=true)
 
@@ -31,6 +32,7 @@
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/5.gif?raw=true)
 
+- Added Basic Water
 - Added Vertex Shader Grass
 - Added Vertex Shader Water
 
