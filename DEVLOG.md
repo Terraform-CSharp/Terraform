@@ -46,3 +46,9 @@
 - Added Block States
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/7.gif?raw=true)
+
+- Added Block Drops
+- Added Block Drop Physics
+- Added Block Drop Animations
+
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/8.gif?raw=true)
