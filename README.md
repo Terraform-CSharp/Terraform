@@ -13,7 +13,7 @@ Multiplayer Voxel Based 'Engine'
 - Net 4.x
 - DX11
 
-# Latest DevLog Update
+# Latest Developer Update
 Link: https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
 
 # Developer
