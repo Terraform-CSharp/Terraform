@@ -14,7 +14,7 @@ Multiplayer Voxel Based 'Engine'
 - DX11
 
 # Latest DevLog Update
-![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/7.gif?raw=true)
+![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/8.gif?raw=true)
 
 Full Devlog Here: https://github.com/Terraform-CSharp/Terraform/blob/main/DEVLOG.md
 
