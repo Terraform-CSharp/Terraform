@@ -1,4 +1,7 @@
 # Devlog
+Written in C#
+Developed by Lloyd Howarth
+
 
 - Added Loading objects
 - Added Fixed radius
