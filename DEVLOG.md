@@ -52,4 +52,3 @@
 - Added Block Drop Animations
 
 ![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/8.gif?raw=true)
-![alt text](https://github.com/Terraform-CSharp/Terraform/blob/images/9.gif?raw=true)
